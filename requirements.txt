@@ -8,7 +8,7 @@ click==6.7
 Flask==1.1.1
 Flask-SQLAlchemy==2.3.2
 itsdangerous==0.24
-Jinja2==2.10.3
+Jinja2==2.11.3
 MarkupSafe==1.0
 pytz==2018.3
 SQLAlchemy==1.2.10
