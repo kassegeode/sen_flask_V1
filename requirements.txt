@@ -13,4 +13,4 @@ MarkupSafe==1.0
 pytz==2018.3
 SQLAlchemy==1.2.10
 Werkzeug==0.16.0
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
